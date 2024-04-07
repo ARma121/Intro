@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stylish Page</title>
+    <style>
+        body {
+            background-color: black;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 50%;
+            margin: 0 auto;
+            text-align: center;
+            padding: 50px 0;
+            background-color: black;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #446688;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 style="color: #f0f0f0;">Aditya Vishwakarma</h1>
+        <h1>211P035</h1>
+    </div>
+</body>
+</html>
